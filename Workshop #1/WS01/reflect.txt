@@ -1,0 +1,9 @@
+**********************************************************
+ * Name: Xuewei Sheng
+ * Student ID: 061745121
+ * Seneca email: xsheng3@myseneca.ca
+ * Section: NCC
+**********************************************************
+1.	The entity with external linkage means it is visible to the linker from other translation units. It can be declared in one translation unit and has definition in another translation unit. In another word, it is visible in global scope, and is accessible through the whole program. In this Workshop, “g_sysClock” with external linkage, and marked with key word “extern”. It has declaration in the “event.h”, has definition in “event.cpp” and can be accessed from the main function. The entity with internal linkage means it is only visible in the scope of one particular translation unit. In this Workshop, “COUNTER” is with internal linkage and marked with key word “static”. 
+2.	“static” variables are the variables with internal linkage. A “static” variable is visible and accessible in one particular translation unit. In Workshop 1, “COUNTER” is a variable with internal linkage. Since it can be accessed through out the whole “event” translation unit, so it is used as a counter for the times of calling of display() member function.
+3.	In the part one of this Workshop, the member data m_desc is a character array with specific size: 128. It means it is allocated memory on the compile time, the compiler determines the size of memory it needed. In the part tow of the Workshop, I changed this member variable to a character pointer variable, dynamic memory is used for this variable.  When the operating system allocates static memory for the program at load time, it reserves dynamic memory and allocates and deallocates this dynamic memory at run-time. So the size of the dynamic memory can be changed during the run-time. 
