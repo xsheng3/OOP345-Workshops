@@ -1,0 +1,21 @@
+``k"8k*k,.%.9*'f;>9;$8.k;9$,9*&&"%,k'*%,>*,.k(9.*?./k)2kA	!*9%.k?9$>8?9>;k*8k*%k.3?.%8"$%k$-k?#.kk;9$,9*&&"%,k'*%,>*,.gkA$9kik<"?#k'*88.8iek#.k'*%,>*,.k#*8k.3;*%/./k8",%"-"(*%?'2kA$=.9k?"&.gk*%/k&$/.9%k``k#*8k$)!.(?f$9".%?./gk,.%.9"(gkA*%/k->%(?"$%*'k-.*?>9.8k"%k*//"?"$%k?$k-*("'"?".8k-$9kA'$<f'.=.'k&.&$92k&*%";>'*?"$%ek?k"8k*'&$8?k*'<*28kA"&;'.&.%?./k*8k*k($&;"'./k'*%,>*,.gk*%/k&*%2k=.%/$98k;9$="/.kA``k($&;"'.98gk"%('>/"%,k?#.k9..k$-?<*9.k$>%/*?"$%gkgkA"(9$8$-?g Intel, Oracle, and IBM, so it is available on 
+many platforms.
+
+C++ was designed with a bias toward system programming and 
+embedded, resource-constrained software and large systems, 
+with performance, efficiency, and flexibility of use as its 
+design highlights. C++ has also been found useful in many 
+other contexts, with key strengths being software 
+infrastructure and resource-constrained applications, 
+including desktop applications, servers (e.g. e-commerce, 
+Web search, orkk8.9=.98bgk*%/k;.9-$9&*%(.f(9"?"(*'kA*;;'"(*?"$%8kc.e,ek?.'.;#$%.k8<"?(#.8k$9k8;*(.k;9$).8beAA``k"8k8?*%/*9/"1./k)2k?#.k%?.9%*?"$%*'k9,*%"1*?"$%k-$9kA?*%/*9/"1*?"$%kcbgk<"?#k?#.k'*?.8?k8?*%/*9/k=.98"$%kA9*?"-"./k*%/k;>)'"8#./k)2kk"%k.(.&).9ky{z|k*8kAdkzssyqy{z|kc"%-$9&*''2k %$<%k*8k``z|bek#.k``kA;9$,9*&&"%,k'*%,>*,.k<*8k"%"?"*''2k8?*%/*9/"1./k"%kzrrskA*8kdkzssyqzrrsgk<#"(#k<*8k?#.%k*&.%/./k)2k?#.kA``{xgk``zzk*%/k``zk8?*%/*9/8ek#.k(>99.%?k``z| 
+standard supersedes these with new features and an 
+enlarged standard library. Before the initial 
+standardization in 1998, C++ was developed by Danish 
+computer scientist Bjarne Stroustrup at Bell Labs 
+since 1979 as an extension of the C language; he 
+wanted an efficient and flexible language similar to C 
+that also provided high-level features for program 
+organization. C++20 is the next planned standard, 
+keeping with the current trend of a new version every 
+three years.
